@@ -40,3 +40,5 @@ kill -9 19508
 {% endhighlight %}
 
 And the error should be gone the next time you run your local server.
+
+_Notes taken from: [Code Q&A](https://code.i-harness.com/en/q/1d9a1fe)_
