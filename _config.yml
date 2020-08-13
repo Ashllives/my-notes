@@ -22,7 +22,7 @@ title: notesbyash
 email: cecillegsevilla01@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A collection of notes for awesome stuff picked up from almost anywhere.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/my-notes" # the subpath of your site, e.g. /blog
 url: "https://notesbyash.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Ashllives
 
