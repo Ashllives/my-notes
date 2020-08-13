@@ -148,4 +148,4 @@ rails g controller ControllerName action1 action2
 
 Note that the controller name must be in CamelCase and that it can take several actions as arguments in lower-case. This should already create routes, views, JavaScript and CSS files along with it too.
 
-_Notes taken from: [medium.com](https://medium.com/forest-admin/rails-migrations-tricks-guide-code-cheatsheet-included-dca935354f22), [tosbourn.com](https://tosbourn.com/rails-migrate-change-column-type/), [railstutorial.org](https://www.railstutorial.org/)_
+_Notes taken from: [medium.com](https://medium.com/forest-admin/rails-migrations-tricks-guide-code-cheatsheet-included-dca935354f22){:target="_blank"}, [tosbourn.com](https://tosbourn.com/rails-migrate-change-column-type/){:target="_blank"}, [railstutorial.org](https://www.railstutorial.org/){:target="_blank"}_

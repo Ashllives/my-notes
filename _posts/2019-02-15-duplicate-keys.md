@@ -50,4 +50,4 @@ In this example, `balloons_id_seq` is your sequence name.
 
 After this, your database sequence should be updated and you may start inserting new rows on your table without running on duplicate key issues.
 
-_Notes taken from: [Functions Sequence](https://www.postgresql.org/docs/8.2/functions-sequence.html), [StackExchange](https://dba.stackexchange.com/questions/46125/why-does-postgres-generate-an-already-used-pk-value), [Functions Info](https://www.postgresql.org/docs/current/functions-info.html#FUNCTIONS-INFO-CATALOG-TABLE)_
+_Notes taken from: [Functions Sequence](https://www.postgresql.org/docs/8.2/functions-sequence.html){:target="_blank"}, [StackExchange](https://dba.stackexchange.com/questions/46125/why-does-postgres-generate-an-already-used-pk-value){:target="_blank"}, [Functions Info](https://www.postgresql.org/docs/current/functions-info.html#FUNCTIONS-INFO-CATALOG-TABLE){:target="_blank"}_

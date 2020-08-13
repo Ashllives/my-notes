@@ -73,3 +73,5 @@ Adopting the five pillars is vital for these reasons:
 - **Software complexity.** More technology, more points of failure
 - **3rd-party collaboration.** Demand for cross-platform integration
 - **observing first, less resolving**
+
+_Notes taken from: [New Relic's Webinar](https://newrelic.com/resources/webinars/2020-07-23-Uncovering-the-Five-Pillars-of-More-Perfect-Software){:target="_blank"}_

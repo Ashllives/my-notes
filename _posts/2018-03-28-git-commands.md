@@ -128,4 +128,4 @@ The current branch will be with asterisk
 
 There are a lot of git commands for different actions. But these are the commonly used ones.
 
-_Notes taken from: [Whatis](https://whatis.techtarget.com/definition/version-control), [Microsoft Azure](https://docs.microsoft.com/en-us/azure/devops/learn/git/what-is-version-control), [Azure Docs](https://docs.microsoft.com/en-us/azure/devops/learn/git/what-is-git)_
+_Notes taken from: [Whatis](https://whatis.techtarget.com/definition/version-control){:target="_blank"}, [Microsoft Azure](https://docs.microsoft.com/en-us/azure/devops/learn/git/what-is-version-control){:target="_blank"}, [Azure Docs](https://docs.microsoft.com/en-us/azure/devops/learn/git/what-is-git){:target="_blank"}_

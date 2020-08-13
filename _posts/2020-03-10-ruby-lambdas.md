@@ -118,5 +118,5 @@ FakePerson.new(fuzzer) # returns random names yay!
 {% endhighlight %}
 
 
-_Notes taken from: [Ruby for Admins: Lambda Functions](http://rubyforadmins.com/lambda-functions), [Ruby Blocks, Procs & Lambdas - The Ultimate Guide!](https://www.rubyguides.com/2016/02/ruby-procs-and-lambdas/), [Using Lambdas in Ruby - Honeybadger Developer Blog](https://www.honeybadger.io/blog/using-lambdas-in-ruby/), [ruby - Skip instance in conditional callback block (lambda or Proc) - Stack Overflow](https://stackoverflow.com/questions/28829717/skip-instance-in-conditional-callback-block-lambda-or-proc)_
+_Notes taken from: [Ruby for Admins: Lambda Functions](http://rubyforadmins.com/lambda-functions){:target="_blank"}, [Ruby Blocks, Procs & Lambdas - The Ultimate Guide!](https://www.rubyguides.com/2016/02/ruby-procs-and-lambdas/){:target="_blank"}, [Using Lambdas in Ruby - Honeybadger Developer Blog](https://www.honeybadger.io/blog/using-lambdas-in-ruby/){:target="_blank"}, [ruby - Skip instance in conditional callback block (lambda or Proc) - Stack Overflow](https://stackoverflow.com/questions/28829717/skip-instance-in-conditional-callback-block-lambda-or-proc){:target="_blank"}_
 

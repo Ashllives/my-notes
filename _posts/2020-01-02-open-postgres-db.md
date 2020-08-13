@@ -17,4 +17,4 @@ The flags used here were:
 - -U which pertains to the user to connect with
 - -p which pertains to the port to connect to (default is 5432)
 
-_Notes taken from: [postgresguide.com](http://postgresguide.com/utilities/psql.html)_
+_Notes taken from: [postgresguide.com](http://postgresguide.com/utilities/psql.html){:target="_blank"}_
