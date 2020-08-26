@@ -126,6 +126,23 @@ git branch
 
 The current branch will be with asterisk
 
+_Changing Remote URL from HTTPS to SSH_
+{% highlight ruby %}
+# git remote set-url [existing_remote_name] [git@hostname:USERNAME/REPOSITORY.git]
+git remote set-url origin git@hostname:username/repository.git
+{% endhighlight %}
+
+_Changing Remote URL from SSH to HTTPS_
+{% highlight ruby %}
+# git remote set-url [existing_remote_name] [https://[hostname]/USERNAME/REPOSITORY.git]
+git remote set-url origin https://hostname/username/repository.git
+{% endhighlight %}
+
+_Verify Remote URL_
+{% highlight ruby %}
+git remote -v
+{% endhighlight %}
+
 There are a lot of git commands for different actions. But these are the commonly used ones.
 
-_Notes taken from: [Whatis](https://whatis.techtarget.com/definition/version-control){:target="_blank"}, [Microsoft Azure](https://docs.microsoft.com/en-us/azure/devops/learn/git/what-is-version-control){:target="_blank"}, [Azure Docs](https://docs.microsoft.com/en-us/azure/devops/learn/git/what-is-git){:target="_blank"}_
+_Notes taken from: [Whatis](https://whatis.techtarget.com/definition/version-control){:target="_blank"}, [Microsoft Azure](https://docs.microsoft.com/en-us/azure/devops/learn/git/what-is-version-control){:target="_blank"}, [Azure Docs](https://docs.microsoft.com/en-us/azure/devops/learn/git/what-is-git){:target="_blank"}, [Github HELP](https://help.github.jp/enterprise/2.11/user/articles/changing-a-remote-s-url/){:target="_blank"}_
